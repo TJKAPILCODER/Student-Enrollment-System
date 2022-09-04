@@ -1,5 +1,5 @@
 Scripting and Programming - Applications – C867
-This is my project for WGU course C867.
+
 
 Here's a summary of the instructions:
 
